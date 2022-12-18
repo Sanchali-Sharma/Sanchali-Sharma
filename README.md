@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanchali-Sharma
 - 👀 I’m interested in ...Web Development , Object Oriented Programming, DSA.
-- 🌱 I’m currently learning ...Reactjs , MERN Development , Java swing ,JavaFx. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Blockchain development,Devops,Reactjs , MERN Development , Java swing ,JavaFx. 
+- 💞️ I’m looking to collaborate on ...Solidity Projects, Web development projects and Java based Destop Applications.
 - 📫 How to reach me ...sharmasanchali06@gmail.com
 
 <!---
